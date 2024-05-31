@@ -2,7 +2,7 @@
 <html lang="ja">
 <head>
     <meta charset="UTF-8">
-    <title>入力結果</title>
+    <title>入力結果.</title>
 </head>
 <body>
     <?php
