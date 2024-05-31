@@ -7,5 +7,5 @@ services:
     #build: env
     volumes:
       - ./public:/var/www/html:cached
-    # ports:
-    #   - 127.0.0.1:8000:80
+    ports:
+       - 127.0.0.1:8000:80
